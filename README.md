@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siamkarim
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently work at MH Global Group As a Backend Software Engineer ...
 
 
 <!---
